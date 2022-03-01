@@ -1,0 +1,19 @@
+{
+  "name": "repo-with-repl-nodejs",
+  "version": "1.0.0",
+  "description": "OUr first Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/95evankang/repo-with-repl-nodejs.git"
+  },
+  "author": "Evan J. Kang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/95evankang/repo-with-repl-nodejs/issues"
+  },
+  "homepage": "https://github.com/95evankang/repo-with-repl-nodejs#readme"
+}
